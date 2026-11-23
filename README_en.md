@@ -72,6 +72,39 @@
 
 ---
 
+## ❤️ Sponsorship
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <a href="https://www.infistar.cc/register?aff=VCHAAHCH&ref_source=link">
+        <img src="https://infistar.cc/logo.png" width="48" alt="Infistar" />
+      </a>
+    </td>
+    <td>
+      <b>MiniMind × <a href="https://www.infistar.cc/register?aff=VCHAAHCH&ref_source=link">Infistar.cc</a></b>: 200+ models (Claude, GPT, Gemini, DeepSeek) via one key. Up to 99% off (from 0.1x official pricing), 100% genuine & verifiable, 1,000+ failover routes. MiniMind users get ¥5 free at sign-up via the <a href="https://www.infistar.cc/register?aff=VCHAAHCH&ref_source=link"><b>exclusive link</b></a>.
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<details>
+<summary>About sponsorship</summary>
+<br>
+
+MiniMind is fully open source under Apache 2.0 and free forever. Sponsorship is voluntary, grants no privileges, and does not affect access. Thank you to everyone supporting this spare-time project.
+
+Sponsorship options include monthly placements or direct GPU server support (compute may be used for related or unrelated research).
+
+For inquiries, email [gongjy.cs@foxmail.com](mailto:gongjy.cs@foxmail.com).
+
+</details>
+
+---
+
 # 📌 Project Introduction
 
 The emergence of Large Language Models (LLMs) has drawn unprecedented global attention to AI. ChatGPT, DeepSeek, Qwen, and many other models have impressed people with their remarkable performance, making the impact of this technological wave feel very real. However, models with tens or hundreds of billions of parameters are not only difficult to train on personal devices, but often out of reach even for deployment. Opening the "black box" of large models and truly understanding how they work internally should have been an exciting thing. Unfortunately, most explorations eventually stop at applying techniques such as LoRA to fine-tune existing large models on a few new instructions or specific tasks. This is more like teaching Newton how to use a 21st-century smartphone — interesting, but not quite the original goal of understanding the essence of physics.
